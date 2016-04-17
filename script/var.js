@@ -77,8 +77,8 @@ var favorites = [
   ],
   [ "Others",
     [
-      ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "g3b,
-      ["ifunny", "http://ifunny.com", "hdl"]
+      ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "gb"]
+      ["ifunny", "http://ifunny.com", "if"]
     ]
   ]
 ];
