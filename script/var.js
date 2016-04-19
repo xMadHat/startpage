@@ -40,7 +40,6 @@ var favorites = [
     [
       ["messenger" , "https://.messenger.com/", "fm"],
       ["facebook" , "https://.facebook.com/" , "fb"],
-	  ["raid" , "https://raidforums.com/", "rf"],
       ["bscotch" , "https://forums.bscotch.net/index.php", "bs"]
     ]
   ],
@@ -55,15 +54,13 @@ var favorites = [
       ["youtube", "https://.youtube.com/", "yt"],
       ["inventory", "https://steamcommunity.com/id/banksy42/invent", "inv"],
       ["netflix", "https://.netflix.com/browse", "nf"],
-      ["slither", "https://slither.io/", "sl"],
       ["net config", "http://192.168.9.1/cgi-bin/luci", "nc"]
     ]
   ],
   [ "4chan",
     [
       ["/b/", "http://4chan.org/b/", "b"],
-      ["/wg/", "http://4chan.org/wg/", "wg"],
-      ["/g/", "http://4chan.org/g/", "g"]
+      ["/wg/", "http://4chan.org/wg/", "wg"]
     ]
   ],
   [ "Others",
