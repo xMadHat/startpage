@@ -38,8 +38,8 @@ var favorites = [
   ],
   [ "Social",
     [
-      ["messenger" , "https://.messenger.com/", "fm"],
-      ["facebook" , "https://.facebook.com/" , "fb"],
+      ["messenger" , "https://messenger.com/", "fm"],
+      ["facebook" , "https://facebook.com/" , "fb"],
       ["bscotch" , "https://forums.bscotch.net/index.php", "bs"]
     ]
   ],
@@ -51,9 +51,9 @@ var favorites = [
   ],
   [ "Frequent",
     [
-      ["youtube", "https://.youtube.com/", "yt"],
+      ["youtube", "https://youtube.com/", "yt"],
       ["inventory", "https://steamcommunity.com/id/banksy42/invent", "inv"],
-      ["netflix", "https://.netflix.com/browse", "nf"],
+      ["netflix", "https://netflix.com/browse", "nf"],
       ["net config", "http://192.168.9.1/cgi-bin/luci", "nc"]
     ]
   ],
