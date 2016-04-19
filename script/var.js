@@ -2,7 +2,7 @@
 // Their name are explicit
 
 var username = "Luca"
-var clientid = "be212a58528168962a39c64052c1d88e";
+var clientid = "ad86d869a3ce53cc868d0270c58165d9";
 var redirecturi = "http://localhost:8002/callback.html";
 var locations = [
   "12766334",
