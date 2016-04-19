@@ -1,7 +1,7 @@
 // All the variable for the app
 // Their name are explicit
 
-var username = "MadHat"
+var username = "Luca"
 var clientid = "be212a58528168962a39c64052c1d88e";
 var redirecturi = "http://localhost:8002/callback.html";
 var locations = [
@@ -75,6 +75,5 @@ var favorites = [
 ];
 var feeds = [
   ["cs:go","http://blog.counter-strike.net/index.php/feed/"],
-  ["cs:go news", "http://feeds.thescoreesports.com/csgo.rss"],
-  ["Listen to this", "https://www.reddit.com/r/listentothis/.rss"]
+  ["die zeit", "http://www.spiegel.de/schlagzeilen/index.rss"]
 ];
