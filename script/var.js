@@ -3,7 +3,7 @@
 
 var username = "Luca"
 var clientid = "ad86d869a3ce53cc868d0270c58165d9";
-var redirecturi = "http://localhost:8002/callback.html";
+var redirecturi = "http://xmadhat.github.io/callback.html";
 var locations = [
   "12766334",
   "2475893"
