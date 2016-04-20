@@ -59,15 +59,16 @@ var favorites = [
   ],
   [ "4chan",
     [
-      ["/b/", "http://4chan.org/b/", "b"],
-      ["/wg/", "http://4chan.org/wg/", "wg"]
+      ["4chan/b/", "http://4chan.org/b/", "b"],
+      ["4chan/wg/", "http://4chan.org/wg/", "wg"]
     ]
   ],
   [ "Others",
     [
       ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "gb"],
       ["ifunny", "http://ifunny.com", "if"],
-      ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"]
+      ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"],
+      ["inventory", "https://steamcommunity.com/id/banksy42/inventory#730", "inv"]
     ]
   ]
 ];
