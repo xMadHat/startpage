@@ -60,7 +60,7 @@ var favorites = [
   [ "4chan",
     [
       ["random", "http://4chan.org/b/", "b"],
-      ["wallpaper/general", "http://4chan.org/wg/", "wg"]
+      ["wallpaper", "http://4chan.org/wg/", "wg"]
     ]
   ],
   [ "Others",
