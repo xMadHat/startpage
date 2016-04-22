@@ -68,6 +68,5 @@ var favorites = [
   ]
 ];
 var feeds = [
-  ["cs:go","http://blog.counter-strike.net/index.php/feed/"],
-  ["die zeit", "http://www.spiegel.de/schlagzeilen/index.rss"]
+  ["cs:go","http://blog.counter-strike.net/index.php/feed/"]
 ];
