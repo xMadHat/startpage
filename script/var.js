@@ -51,12 +51,12 @@ var favorites = [
   [ "Videos",
     [
       ["youtube", "https://youtube.com/", "yt"],
-      ["netflix", "https://netflix.com/browse", "nf"],
+      ["netflix", "https://netflix.com/browse", "nf"]
     ]
   ],
   [ "Frequent",
     [
-      ["slither", "https://slither.io/", "sl"]
+      ["slither", "https://slither.io/", "sl"],
       ["nfl", "http://www.nfl.com/", "nfl"]
     ]
   ],
