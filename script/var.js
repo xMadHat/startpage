@@ -1,12 +1,12 @@
 // All the variable for the app
 // Their name are explicit
 
-var username = "Luca"
+var username = "Bobby"
 var clientid = "ad86d869a3ce53cc868d0270c58165d9";
-var redirecturi = "http://xmadhat.github.io/callback.html";
+var redirecturi = "https://github.com/bobimaurice/bobimaurice.github.io/blob/master/callback.html";
 var locations = [
   "12766334",
-  "638806"
+  "2459115"
 ];
 var images = [
   "1412446496031.jpg",
@@ -39,36 +39,31 @@ var favorites = [
   [ "Social",
     [
       ["messenger" , "https://messenger.com/", "fm"],
-      ["facebook" , "https://facebook.com/" , "fb"],
-      ["bscotch" , "https://forums.bscotch.net/index.php", "bs"]
+      ["facebook" , "https://facebook.com/" , "fb"]
     ]
   ],
   [ "Download",
     [
       ["thepiratebay", "http://thepiratebay.se", "tpb"],
-      ["T411", "http://.t411.in/", "t411"]
+      ["g2a", "https://www.g2a.com/", "g2a"]
+    ]
+  ],
+  [ "Videos",
+    [
+      ["youtube", "https://youtube.com/", "yt"],
+      ["netflix", "https://netflix.com/browse", "nf"],
     ]
   ],
   [ "Frequent",
     [
-      ["youtube", "https://youtube.com/", "yt"],
-      ["inventory", "https://steamcommunity.com/id/banksy42/invent", "inv"],
-      ["netflix", "https://netflix.com/browse", "nf"],
-      ["net config", "http://192.168.9.1/cgi-bin/luci", "nc"]
-    ]
-  ],
-  [ "4chan",
-    [
-      ["random", "http://4chan.org/b/", "b"],
-      ["wallpaper", "http://4chan.org/wg/", "wg"]
+      ["slither", "https://slither.io/", "sl"]
+      ["nfl", "http://www.nfl.com/", "nfl"]
     ]
   ],
   [ "Others",
     [
-      ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "gb"],
       ["ifunny", "http://ifunny.co", "if"],
-      ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"],
-      ["inventory", "https://steamcommunity.com/id/banksy42/inventory#730", "inv"]
+      ["github", "https://github.com/bobimaurice/bobimaurice.github.io", "gh"]
     ]
   ]
 ];
