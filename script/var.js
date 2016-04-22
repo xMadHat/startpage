@@ -68,6 +68,6 @@ var favorites = [
   ]
 ];
 var feeds = [
-  ["cs:go", "http://blog.counter-strike.net/index.php/feed/"]
+  ["cs:go", "http://blog.counter-strike.net/index.php/feed/"],
   ["nfl", "http://espn.go.com/espn/rss/nfl/news"]
 ];
