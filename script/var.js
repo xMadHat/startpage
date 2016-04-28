@@ -1,5 +1,5 @@
-// All the variable for the app
-// Their name are explicit
+// All the variables for the site
+// The names are explicit
 
 var username = "Luca"
 var clientid = "ad86d869a3ce53cc868d0270c58165d9";
