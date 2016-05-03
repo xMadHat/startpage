@@ -30,7 +30,7 @@ var searchs = [
 var favorites = [
   [ "Work",
     [
-      ["edline" , "https://edline.net/Index.page", "el"],
+      ["edline" , "https://www.edline.net/Index.page", "el"],
       ["google docs" , "https://docs.google.com/document/u/0/", "gdc"],
       ["gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
       ["google drive" , "https://drive.google.com/drive/u/0/my-drive", "gdr"]
