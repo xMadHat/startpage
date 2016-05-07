@@ -25,7 +25,8 @@ var images = [
 var searchs = [
   ["!g", "https://www.google.ch/#q="],
   ["!y", "https://www.youtube.com/results?search_query="],
-  ["!w", "https://en.wikipedia.org/w/index.php?search="]
+  ["!w", "https://en.wikipedia.org/w/index.php?search="],
+  ["!s", "http://steamcommunity.com/search#filter=none&text="]
 ];
 var favorites = [
   [ "Work",
