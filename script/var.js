@@ -23,7 +23,7 @@ var images = [
   "1448399280112.jpg"
 ];
 var searchs = [
-  ["!g", "https://www.google.ch/#q="],
+  ["!g", "https://www.google.com/#q="],
   ["!y", "https://www.youtube.com/results?search_query="],
   ["!w", "https://en.wikipedia.org/w/index.php?search="],
   ["!s", "http://steamcommunity.com/search#filter=none&text="]
