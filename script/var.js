@@ -76,5 +76,6 @@ var favorites = [
 ];
 var feeds = [
   ["cs:go","http://blog.counter-strike.net/index.php/feed/"],
-  ["die zeit", "http://www.spiegel.de/schlagzeilen/index.rss"]
+  ["die zeit", "http://www.spiegel.de/schlagzeilen/index.rss"],
+  ["steam sales", "https://www.steamprices.com/public/rss/pricetracker_us.xml"]
 ];
