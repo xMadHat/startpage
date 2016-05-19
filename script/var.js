@@ -45,10 +45,10 @@ var favorites = [
       ["freenode" , "http://webchat.freenode.net/?nick=MadHat&channels=%23j1h7oY1ulR&uio=MTY9dHJ1ZSYzPWZhbHNlJjk9dHJ1ZSYxMT0yMDUmMTI9dHJ1ZQ3c", "fn"]
     ]
   ],
-  [ "Download",
+  [ "Admin",
     [
-      ["thepiratebay", "http://thepiratebay.se", "tpb"],
-      ["T411", "http://.t411.in/", "t411"]
+      ["8chan mod", "https://sys.8ch.net/mod.php?/settings/meemay", "8ch"],
+      ["net config", "http://192.168.9.1/cgi-bin/luci", "nc"]
     ]
   ],
   [ "Frequent",
@@ -56,13 +56,14 @@ var favorites = [
       ["youtube", "https://youtube.com/", "yt"],
       ["inventory", "https://steamcommunity.com/id/banksy42/invent", "inv"],
       ["netflix", "https://netflix.com/browse", "nf"],
-      ["net config", "http://192.168.9.1/cgi-bin/luci", "nc"]
     ]
   ],
-  [ "4chan",
+  [ "Chans",
     [
       ["random", "http://4chan.org/b/", "b"],
-      ["wallpaper", "http://4chan.org/wg/", "wg"]
+      ["wallpaper", "http://4chan.org/wg/", "wg"],
+      ["tech", "http://8ch.net/tech/index.html", "tc"],
+      ["meemay", "http://8ch.net/meemay/index.html", "mm"]
     ]
   ],
   [ "Others",
