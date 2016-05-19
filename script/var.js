@@ -42,7 +42,7 @@ var favorites = [
       ["messenger" , "https://messenger.com/", "fm"],
       ["facebook" , "https://facebook.com/" , "fb"],
       ["bscotch" , "https://forums.bscotch.net/index.php", "bs"],
-      ["freenode" , "http://webchat.freenode.net/?nick=MadHat&channels=%23j1h7oY1ulR&uio=MTY9dHJ1ZSYzPWZhbHNlJjk9dHJ1ZSYxMT0yMDUmMTI9dHJ1ZQ3c", "fn"]
+      ["freenode" , "http://webchat.freenode.net?nick=Anon...&channels=%23meemay", "fn"]
     ]
   ],
   [ "Admin",
