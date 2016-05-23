@@ -70,8 +70,7 @@ var favorites = [
     [
       ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "gb"],
       ["ifunny", "http://ifunny.co", "if"],
-      ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"],
-      ["inventory", "https://steamcommunity.com/id/banksy42/inventory#730", "inv"]
+      ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"]
     ]
   ]
 ];
