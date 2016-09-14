@@ -69,7 +69,6 @@ var favorites = [
   [ "Others",
     [
       ["glitcher", "http://jkirchartz.com/Glitchy3bitdither/GlitchCruiser.html", "gb"],
-      ["ifunny", "http://ifunny.co", "if"],
       ["github", "https://github.com/xMadHat/xmadhat.github.io", "gh"]
     ]
   ]
