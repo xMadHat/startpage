@@ -56,6 +56,7 @@ var favorites = [
       ["youtube", "https://youtube.com/", "yt"],
       ["inventory", "https://steamcommunity.com/id/banksy42/inventory/", "inv"],
       ["netflix", "https://netflix.com/browse", "nf"],
+      ["music", "https://play.google.com/music", "gm"]
     ]
   ],
   [ "Chans",
