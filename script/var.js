@@ -75,6 +75,6 @@ var favorites = [
   ]
 ];
 var feeds = [
-  ["cs:go","http://blog.counter-strike.net/index.php/feed/"],
-  ["rb6","http://blog.ubi.com/category/rainbow-six-siege-tom-clancys/"]
+  ["Steam","https://www.reddit.com/r/Steam/.rss"],
+  ["rb6","https://www.reddit.com/r/Rainbow6/.rss"]
 ];
