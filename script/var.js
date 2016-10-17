@@ -76,5 +76,5 @@ var favorites = [
 ];
 var feeds = [
   ["cs:go","http://blog.counter-strike.net/index.php/feed/"],
-  ["steam sales", "https://www.steamprices.com/public/rss/pricetracker_us.xml"]
+  ["rb6","http://blog.ubi.com/feed/"]
 ];
