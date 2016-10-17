@@ -75,6 +75,6 @@ var favorites = [
   ]
 ];
 var feeds = [
-  ["Steam","https://www.reddit.com/r/Steam/.rss"],
+  ["steam","https://www.reddit.com/r/Steam/.rss"],
   ["rb6","https://www.reddit.com/r/Rainbow6/.rss"]
 ];
