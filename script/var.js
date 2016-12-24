@@ -2,7 +2,7 @@
 // The names are explicit
 
 var username = "xMadHat"
-var clientid = "	or3u9wdNps6eDOXfGbgXdLuDQl0";
+var clientid = "or3u9wdNps6eDOXfGbgXdLuDQl0";
 var redirecturi = "http://xmadhat.github.io/callback.html";
 var locations = [
   "12766334",
