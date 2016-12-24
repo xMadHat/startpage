@@ -1,8 +1,8 @@
 // All the variables for the site
 // The names are explicit
 
-var username = "Luca"
-var clientid = "ad86d869a3ce53cc868d0270c58165d9";
+var username = "xMadHat"
+var clientid = "	or3u9wdNps6eDOXfGbgXdLuDQl0";
 var redirecturi = "http://xmadhat.github.io/callback.html";
 var locations = [
   "12766334",
